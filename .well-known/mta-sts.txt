@@ -1,5 +1,5 @@
 ﻿version: STSv1
-mode: testing
+mode: enforce
 max_age: 2419200
 mx: alt2.aspmx.l.google.com
 mx: alt3.aspmx.l.google.com
