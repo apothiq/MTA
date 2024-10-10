@@ -1,6 +1,0 @@
-﻿version: STSv1
-mode: enforce
-max_age: 2419200
-mx: *.aspmx.l.google.com
-mx: aspmx.l.google.com
-mx: *.googlemail.com
